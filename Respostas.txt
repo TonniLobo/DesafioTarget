@@ -1,0 +1,19 @@
+01 - R: 91.
+02 - Código "questao2.cpp".
+03 - 
+    a) R: 9;
+    b) R: 128;
+    c) R: 49;
+    d) R: 100;
+    e) R: 13;
+    f) R: 200.
+    
+04 - Considerando as velocidades dos veículos, 110km/h(carro) e 80km/h(caminhão), temos que,
+o tempo necessário para os mesmos alcançarem seus objetivos são 54,54 min e 85 min(+10 minutos
+de pedágio inclusos) respectivamente. Como os veículos estão se aproximando, subtraí o tempo para
+objetivo: 85 - 54,54 = 30,46 minutos (ponto onde eles se cruzam) ou 0,507666667h. Nesse ponto, o
+carro terá percorrido 55,84333337km e o caminhão 40,61333336km, faltando para o caminhão 59,38666664km
+para chegar em Ribeirão Preto, enquanto, para o carro retornar, faltaria a mesma distância percorrida
+até o momento, logo, o carro está mais perto.
+
+05 - Código "questao5.cpp".
